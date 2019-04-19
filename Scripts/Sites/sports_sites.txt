@@ -1,0 +1,1293 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta name="referrer" content="origin-when-cross-origin" />
+<meta charset="utf-8">
+<!-- Google Tag Manager -->
+<script type="text/javascript">
+!function(){
+dataLayer = window.dataLayer || [];
+dataLayer = dataLayer.concat([{"lifecycle_stage":"prospect"},{"logged-in":false},{"customer":{"status":"prospect","highest_subscription":false}}]);
+}();
+</script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5P2THV');</script>
+<!-- End Google Tag Manager --><!-- start Mixpanel --><script type="text/javascript">(function(e,a){if(!a.__SV){var b=window;try{var c,l,i,j=b.location,g=j.hash;c=function(a,b){return(l=a.match(RegExp(b+"=([^&]*)")))?l[1]:null};g&&c(g,"state")&&(i=JSON.parse(decodeURIComponent(c(g,"state"))),"mpeditor"===i.action&&(b.sessionStorage.setItem("_mpcehash",g),history.replaceState(i.desiredHash||"",e.title,j.pathname+j.search)))}catch(m){}var k,h;window.mixpanel=a;a._i=[];a.init=function(b,c,f){function e(b,a){var c=a.split(".");2==c.length&&(b=b[c[0]],a=c[1]);b[a]=function(){b.push([a].concat(Array.prototype.slice.call(arguments,
+0)))}}var d=a;"undefined"!==typeof f?d=a[f]=[]:f="mixpanel";d.people=d.people||[];d.toString=function(b){var a="mixpanel";"mixpanel"!==f&&(a+="."+f);b||(a+=" (stub)");return a};d.people.toString=function(){return d.toString(1)+".people (stub)"};k="disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config reset people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
+for(h=0;h<k.length;h++)e(d,k[h]);a._i.push([b,c,f])};a.__SV=1.2;b=e.createElement("script");b.type="text/javascript";b.async=!0;b.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"file:"===e.location.protocol&&"//www.alexa.com/js/ext/mixpanel-2-latest.js".match(/^\/\//)?"https://www.alexa.com/js/ext/mixpanel-2-latest.js":"//www.alexa.com/js/ext/mixpanel-2-latest.js";c=e.getElementsByTagName("script")[0];c.parentNode.insertBefore(b,c)}})(document,window.mixpanel||[]);
+mixpanel.init("23564df485f0237ed31a0187a9aa3aad"
+, {ip:0, api_host:"//www.alexa.com/mixpanel" });
+</script><!-- end Mixpanel -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link href="//fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,100,200,300,400,600|Roboto+Slab:400,700|Lato:100,200,300,400,700|Roboto:100,200,300,400,700" rel="stylesheet" type="text/css">
+<title>Alexa - Top Sites by Category: Sports</title><link href="/css/scssv2/compiled/style.css?1555022274" media="screen" rel="stylesheet" type="text/css" >
+<link href="/topsites/category/Sports" rel="canonical" >
+<link href="/topsites/countries;1/Sports" rel="next" >
+<link href="/css/scssv2/compiled/mobile.css?1540844734" media="screen" rel="stylesheet" type="text/css" ><script type="text/javascript" src="/js/ext/jquery-183.js?1540844734"></script>
+<script type="text/javascript" src="/js/ext/underscore.js?1540844734"></script>
+<script type="text/javascript" src="/js/topsites.js?1555022599"></script>
+<!--[if lt IE 9]>
+<script src="/js/ext/html5shiv-min.js"></script>
+<![endif]-->
+<noscript>
+<style type="text/css">
+.no-js-content{
+display: block;
+}
+.hide-js-content{
+display: none;
+}
+</style>
+<!--	<img height="1" width="1" border="0" alt="" style="display:none" src="https://www.facebook.com/tr?id=648783858509466&ev=NoScript" />-->
+</noscript>	</head>
+<body id="categoryPage" class="chrome categoryPage topsites LoggedOut noSub ">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5P2THV"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->	<script type='text/javascript'>
+mixpanel.register({"logged_in":false});
+mixpanel.register({"lifecycle_stage":"prospect","highest_subscription":false,"agency":false});
+</script>
+<header id="alx-header" class="alx-header LoggedOut">
+<div class='row-fluid'>
+<section id='alexa-logo' class='alexa-logo'>
+<a class='top-nav-link' href='/' title='Go to home page'><img alt='Alexa logo' src='/images/homepage/alexa-logo.png'></a>
+<a href='#' class='expandabletoggle maxUncanny top-nav-link'><i class='fa fa-bars' aria-hidden='true'></i></a>
+<ul class='MobileMenu expandable maxUncanny' style='display:none;'>
+<li>
+<p class='expandabletoggle' href='https://try.alexa.com/marketing-stack'>
+Features
+</p>
+<ul class='expandable' style='display:none;'>
+<li>
+<p class='expandabletoggle'>SEO Tools</p>
+<ul class='expandable' style='display: none;'>
+<li><a href='https://try.alexa.com/marketing-stack/keyword-difficulty-tool'>Keyword Difficulty Tool</a></li>
+<li><a href='https://try.alexa.com/marketing-stack/competitor-keyword-matrix'>Competitor Keyword Matrix</a></li>
+<li><a href='https://try.alexa.com/marketing-stack/on-page-seo-checker'>On-Page SEO Checker</a></li>
+<li><a href='https://try.alexa.com/marketing-stack/competitor-backlink-checker'>Competitor Backlink Checker</a></li>
+<li><a href='https://try.alexa.com/marketing-stack/seo-audit-tool'>SEO Audit Tool</a></li>
+</ul>
+</li>
+<li>
+<p class='expandabletoggle'>Competitive Analysis Tools</p>
+<ul class='expandable' style='display: none;'>
+<li><a href='https://try.alexa.com/marketing-stack/audience-overlap-tool'>Audience Overlap Tool</a></li>
+<li><a href='https://try.alexa.com/marketing-stack/site-comparisons'>Site Comparisons</a></li>
+<li><a href='https://alexa.com/siteinfo'>Website Traffic Statistics</a></li>
+<li><a href='https://www.alexa.com/find-similar-sites'>Find Similar Sites</a></li>
+<li><a href='https://www.alexa.com/topsites'>Top Sites</a></li>
+</ul>
+</li>
+<li><a href='https://try.alexa.com/offer/ebook/5-tools-for-complete-marketing-workflow/'>5 Tools for a Complete Marketing Workflow</a></li>
+</ul>
+</li>
+<li>
+<a href='#'>Resources</a>
+<ul class='expandable' style='display: none;'>
+<li><a href='https://try.alexa.com/resources'>eBooks</a></li>
+<li><a href='https://try.alexa.com/alexa-tutorials/'>Video Tutorials</a></li>
+<li><a href='http://blog.alexa.com'>Blog</a></li>
+</ul>
+</li>
+<li>
+<a href='https://alexa.com/plans'>Pricing</a>
+</li>
+<li>
+<a href='https://www.alexa.com/clientlogin'>Log in</a>
+</li>
+<li>
+<a href='https://www.alexa.com/plans'>START YOUR FREE TRIAL</a>
+</li>
+</ul>
+</section>
+<section class='alexa-menu Desktop pull-right '>
+<a class='menu-tab top-nav-link' href='https://try.alexa.com/advanced-plan'>For Marketers</a>
+<a class='menu-tab top-nav-link' href='https://try.alexa.com/agency-plan'>For Agencies</a>
+<div class='menu-tab current'><a class='top-nav-link' href='https://try.alexa.com/marketing-stack/' >Features <i class='fa fa-caret-down' aria-hidden='true'></i></a>
+<div class='drop-cont'>
+<div class='row-fluid dropDown'>
+<div class='Block'>
+<a class='title top-nav-link' href='https://try.alexa.com/marketing-stack/seo-tools'>SEO Tools</a>
+<ul class=''>
+<li><a class='top-nav-link' href='https://try.alexa.com/marketing-stack/keyword-difficulty-tool'>Keyword Difficulty Tool</a></li>
+<li><a class='top-nav-link' href='https://try.alexa.com/marketing-stack/competitor-keyword-matrix'>Competitor Keyword Matrix</a></li>
+<li><a class='top-nav-link' href='https://try.alexa.com/marketing-stack/on-page-seo-checker'>On-Page SEO Checker</a></li>
+<li><a class='top-nav-link' href='https://try.alexa.com/marketing-stack/competitor-backlink-checker'>Competitor Backlink Checker</a></li>
+<li><a class='top-nav-link' href='https://try.alexa.com/marketing-stack/seo-audit-tool'>SEO Audit Tool</a></li>
+<li><a class='top-nav-link emphasize emp-first' href='https://try.alexa.com/seo-analysis'>SEO Analysis ></a></li>
+<li><a class='top-nav-link emphasize' href='https://try.alexa.com/keyword-research'>Keyword Research ></a></li>
+<li ><a class='top-nav-link emphasize' href='https://try.alexa.com/check-backlinks'>Check Backlinks ></a></li>
+</ul>
+</div>
+<div class='Block'>
+<a class='title top-nav-link' href='https://try.alexa.com/marketing-stack/competitive-analysis-tools'>Competitive Analysis Tools</a>
+<ul class=''>
+<li><a class='top-nav-link ' href='https://try.alexa.com/marketing-stack/audience-overlap-tool'>Audience Overlap Tool</a></li>
+<li><a class='top-nav-link ' href='https://try.alexa.com/marketing-stack/site-comparisons'>Site Comparisons</a></li>
+<li><a class='top-nav-link ' href='/siteinfo'>Website Traffic Statistics</a></li>
+<li><a class='top-nav-link ' href='/find-similar-sites'>Find Similar Sites</a></li>
+<li><a class='top-nav-link active' href='/topsites'>Top Sites</a></li>
+<li><a class='top-nav-link emphasize emp-first' href='https://try.alexa.com/competitive-website-analysis'>Competitive Website Analysis ></a></li>
+<li><a class='top-nav-link emphasize' href='https://try.alexa.com/target-audience-analysis'>Target Audience Analysis ></a></li>
+</ul>
+</div>
+<div class='Block'>
+<a class='title' target='_blank' href='https://try.alexa.com/offer/ebook/tools-for-complete-marketing-workflow/'>6 Tools for a Complete Marketing Workflow</a>
+<a class='top-nav-link' target='_blank' href='https://try.alexa.com/offer/ebook/tools-for-complete-marketing-workflow/'><img src='/images/ebook.png'/></a>
+<a class='btn btn-block btn-large btn-n3 outline top-nav-link' target='_blank' href='https://try.alexa.com/offer/ebook/tools-for-complete-marketing-workflow/'>Download your Ebook</a>
+</div>
+</div>
+</div>
+</div>
+<div class='menu-tab '>Resources <i class='fa fa-caret-down' aria-hidden='true'></i>
+<div class='drop-cont Single'>
+<ul class='dropDown'>
+<li><a class='top-nav-link' href='https://try.alexa.com/resources'>eBooks</a></li>
+<li><a class='top-nav-link' href='https://try.alexa.com/alexa-tutorials/'>Video Tutorials</a></li>
+<li><a class='top-nav-link' href='http://blog.alexa.com/'>Blog</a></li>
+</ul>
+</div>
+</div>
+<a class='menu-tab  top-nav-link' href='/plans'>Pricing</a>
+<a class='menu-tab  top-nav-link' href="/clientlogin?resource=https://www.alexa.com/topsites/category/Top/Sports">Log in</a>
+<a class='Mkbutton Orange navigation  top-nav-link' href='/plans'>START YOUR FREE TRIAL</a>
+</section>
+</div>						</header>
+<section id="alx-content" class="alx-content">
+<div class="row-fluid">
+<div class="row-fluid TopSites Alexarest">
+<section class="page-product-top">
+<div class="content-top">
+<div id="ExitIntent" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="display:none;">
+<div class="modal-dialog modal-lg">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true"><i class="fa fa-times" aria-hidden="true"></i></button>
+<h3 class="first-slide" id="question-1">What would you like to accomplish with Alexa?</h3>
+<h3 class="second-slide" id="question-2" style="display:none;">What is your job function?</h3>
+<div class="third-slide-one" style="display: none;">
+<h3><i class="fa fa-check-circle" aria-hidden="true"></i> You'd be a great fit for our Advanced plan</h3>
+<p>Alexa's Advanced plan makes it easy to increase your website traffic.</p>
+<ul>
+<li>Improve SEO</li>
+<li>Find keyword ideas</li>
+<li>Find marketing ideas</li>
+<li>Research competitors</li>
+</ul>
+</div>
+<div class="third-slide-two" style="display: none;">
+<h3><i class="fa fa-check-circle" aria-hidden="true"></i> You'd be a great fit for our Insight plan</h3>
+<p>Alexa's Insight plan makes it easy to research and analyze websites.</p>
+<ul>
+<li>Get website traffic stats</li>
+<li>Research competitors</li>
+<li>Compare websites</li>
+</ul>
+</div>
+<div class="third-slide-three" style="display: none;">
+<h3><i class="fa fa-check-circle" aria-hidden="true"></i> You'd be a great fit for our Certified Alexa Rank plans</h3>
+<p>These plans make it easy to measure your website’s popularity.</p>
+<ul>
+<li>Get a Certified Alexa Rank</li>
+<li>Compare websites</li>
+<li>Research basic website stats</li>
+</ul>
+</div>
+</div>
+<div class="modal-body">
+<div class="row-fluid first-slide">
+<div class="span6">
+<div class="button" data-question-id="question-1" data-choice="traffic">Increase website traffic</div>
+<div class="button" data-question-id="question-1" data-choice="seo">Improve SEO</div>
+<div class="button" data-question-id="question-1" data-choice="keyword">Find keyword ideas</div>
+<div class="button" data-question-id="question-1" data-choice="marketing">Find marketing ideas</div>
+</div>
+<div class="span6">
+<div class="button" data-question-id="question-1" data-choice="rank">Improve my Alexa Rank</div>
+<div class="button" data-question-id="question-1" data-choice="stats">Get website traffic stats</div>
+<div class="button" data-question-id="question-1" data-choice="competitors">Research competitors</div>
+<div class="button" data-question-id="question-1" data-choice="compare">Compare websites</div>
+</div>
+</div>
+<div class="row-fluid second-slide" style="display: none;">
+<div class="span6">
+<div class="button" data-question-id="question-2" data-choice="marketing">Marketing</div>
+<div class="button" data-question-id="question-2" data-choice="agency">Agency</div>
+<div class="button" data-question-id="question-2" data-choice="consultant">Consultant</div>
+<div class="button" data-question-id="question-2" data-choice="owner">Business Owner</div>
+</div>
+<div class="span6">
+<div class="button" data-question-id="question-2" data-choice="investor">Investor</div>
+<div class="button" data-question-id="question-2" data-choice="analyst">Analyst</div>
+<div class="button" data-question-id="question-2" data-choice="sales">Sales</div>
+<div class="button" data-question-id="question-2" data-choice="other">Other</div>
+</div>
+</div>
+<div class="row-fluid third-slide-one" style="display: none;">
+<a class="Mkbutton Orange" href="http://www.alexa.com/plans?tab=marketing">START MY FREE TRIAL</a>
+<a class="learn" href="https://try.alexa.com/marketing-stack">Learn More <i class="fa fa-chevron-right" aria-hidden="true"></i></a>
+</div>
+<div class="row-fluid third-slide-two" style="display: none;">
+<a class="Mkbutton Orange" href="http://www.alexa.com/plans?tab=analysis">START MY FREE TRIAL</a>
+<a class="learn" href="https://try.alexa.com/marketing-stack/competitive-analysis-tools">Learn More <i class="fa fa-chevron-right" aria-hidden="true"></i></a>
+</div>
+<div class="row-fluid third-slide-three" style="display: none;">
+<a class="Mkbutton Orange" href="http://www.alexa.com/plans?tab=rank">START MY FREE TRIAL</a>
+</div>
+</div>
+</div>
+</div>      <section class="page-title page-title-only">
+<div class="row-fluid">
+<span class="span12">
+<h1 class="hdr title">
+<span class="page-title-text">            The top 500 sites on the web</span>
+<span class="WhatsThis top" >
+<i class='fa fa-question-circle' aria-hidden='true'></i>
+<span class="container">
+The listings in the Top Sites by Category are ordered by Popularity of this listing, and not by the overall Global rank of the site. <br/><br/>We use the same basic traffic ranking technology used for Alexa Traffic Rank — a combination of unique visitors and pageviews — but apply it only to the traffic for that specific listing.
+</span>
+</span>                   </h1>
+</span>
+</div>
+<div class="Foldering">
+<div class="each "><a href="/topsites">Global</a></div>
+<div class="each "><a href="/topsites/countries">By Country</a></div>
+<div class="each current"><a href="/topsites/category">By Category</a></div>
+</div>
+</section>
+</div>
+</section>
+<section class="page-product-content summary">
+<span class="">
+<span class="">
+<!--       <aside class="">
+<nav>
+<ul class='navi-list tools'>
+<li id='tools-siteInfo' class=''><a class='' watch-hash  data-sync='1' href='/siteinfo'>Site Overview</a></li><li id='tools-siteComparison' class=''><span><span class='ppoverdl img-lock stay-onhover'  data-ppoverdl='ppsc'>Site Comparisons</span><span class='ppover img-lock stay-onhover' data-placement='right' data-ppover='ppsc'>Site Comparisons</span><div id="ppsc" data-title='Log In' class='hide-elem'>
+<p class="mg-btm">To access this feature please Log In to your account</p>
+<a href="/login?resource=%2Fcomparison%2F" class="btn btn-p2
+ppover-close">Log In</a>
+<a class="float-right"
+href="/register?resource=%2Fcomparison%2F">Create an Account</a>
+</div></span></li><li id='tools-sitesLinkingIn' class=''><span><span class='ppoverdl img-lock stay-onhover'  data-ppoverdl='ppli'>Sites Linking in</span><span class='ppover img-lock stay-onhover' data-placement='right' data-ppover='ppli'>Sites Linking in</span><div id="ppli" data-title='Subscribe to View' class='hide-elem'>
+<p class="mg-btm">The Sites Linking In tool is available in the Alexa Pro Basic Plan.</p>
+<a href="/plans?ax_atid=" class="btn btn-p2 ppover-close">View Plans & Pricing</a>
+</div></span></li><li id='tools-keywordResearch' class=''><span><span class='ppoverdl img-lock stay-onhover'  data-ppoverdl='ppkw'>Site Keywords</span><span class='ppover img-lock stay-onhover' data-placement='right' data-ppover='ppkw'>Site Keywords</span><div id="ppkw" data-title='Subscribe to View' class='hide-elem'>
+<p class="mg-btm">The Keyword Research tool is available in the Alexa Pro Insight Plans.</p>
+<a href="/plans?ax_atid=" class="btn btn-p2 ppover-close">View Plans & Pricing</a>
+</div></span></li><li id='tools-data' class=''><a class='track-atid' watch-hash data-atid='8085775f-5c5e-4196-b84d-1615e3966529' data-sync='1' href='https://aws.amazon.com/marketplace/seller-profile?id=4a9dbf38-88b1-4e87-a459-271154a77d2e'><img width=170 src='/images/ads/img-siteOverview-API-ad.jpg' /></a></li>
+</ul>
+</nav>    <div class="nosub-side-ad-pos"></div>
+<div class="nosub-side-ad">
+<img src="/images/img-sideBanner-header.png" >
+<ul class="features fa fa-ul">
+<li><a href="https://try.alexa.com/marketing-stack/keyword-difficulty-tool">Keyword Difficulty Tool</a></li>
+<li><a href="https://try.alexa.com/marketing-stack/competitor-keyword-matrix">Competitor Keyword Matrix</a></li>
+<li><a href="https://try.alexa.com/marketing-stack/on-page-seo-checker">On-Page SEO Checker</a></li>
+<li><a href="https://try.alexa.com/marketing-stack/seo-audit-tool">SEO Audit Tool</a></li>
+<li><a href="https://try.alexa.com/marketing-stack/audience-overlap-tool">Audience Overlap Tool</a></li>
+<li><a href="https://try.alexa.com/marketing-stack/competitive-intelligence-tools">Competitive Intelligence</a></li>
+</ul>
+<div class="banner-foot">
+<a class="btn btn-large btn-n3 outline" href="/plans?vevent=button_click&vdata=try%20plan%20link">Start Free Trial</a>
+<br/>
+<a href="https://try.alexa.com/marketing-stack">Learn More</a>
+</div>
+</div>              </aside> -->
+<div class="AlexaTable LightWeightTable">
+<div class="tableContainer">
+<section id="section-category-data" class="row panel-row section-category-data">
+<div id="subcat_div" class="panel-wrapper no-padding">
+<header class="row panel-header">
+<div class="panel-header-primary">
+<h4 class="h4">
+<a class="catList open">Sub-Categories ( 81 )</a>
+</h4>
+<p></p>
+</div>
+</header>
+<div class="categories row-fluid ">
+<ul class="subcategories span3"><li><a  href="/topsites/category/Top/Sports/Adventure_Racing">Adventure Racing</a> <span  class="small gray">( 83 )</span></li><li><a  href="/topsites/category/Top/Sports/Airsoft">Airsoft</a> <span  class="small gray">( 40 )</span></li><li><a  href="/topsites/category/Top/Sports/Animal_Sports">Animal Sports</a> <span  class="small gray">( 3 )</span></li><li><a  href="/topsites/category/Top/Sports/Archery">Archery</a> <span  class="small gray">( 16 )</span></li><li><a  href="/topsites/category/Top/Sports/Badminton">Badminton</a> <span  class="small gray">( 164 )</span></li><li><a  href="/topsites/category/Top/Sports/Baseball">Baseball</a> <span  class="small gray">( 693 )</span></li><li><a  href="/topsites/category/Top/Sports/Basketball">Basketball</a> <span  class="small gray">( 550 )</span></li><li><a  href="/topsites/category/Top/Sports/Bocce">Bocce</a> <span  class="small gray">( 8 )</span></li><li><a  href="/topsites/category/Top/Sports/Boomerang">Boomerang</a> <span  class="small gray">( 12 )</span></li><li><a  href="/topsites/category/Top/Sports/Bowling">Bowling</a> <span  class="small gray">( 366 )</span></li><li><a  href="/topsites/category/Top/Sports/Boxing">Boxing</a> <span  class="small gray">( 193 )</span></li><li><a  href="/topsites/category/Top/Sports/Cheerleading">Cheerleading</a> <span  class="small gray">( 138 )</span></li><li><a  href="/topsites/category/Top/Sports/College_and_University">College and University</a> <span  class="small gray">( 201 )</span></li><li><a  href="/topsites/category/Top/Sports/Cricket">Cricket</a> <span  class="small gray">( 685 )</span></li><li><a  href="/topsites/category/Top/Sports/Croquet">Croquet</a> <span  class="small gray">( 48 )</span></li><li><a  href="/topsites/category/Top/Sports/Cue_Sports">Cue Sports</a> <span  class="small gray">( 87 )</span></li><li><a  href="/topsites/category/Top/Sports/Cycling">Cycling</a> <span  class="small gray">( 1,764 )</span></li><li><a  href="/topsites/category/Top/Sports/Darts">Darts</a> <span  class="small gray">( 168 )</span></li><li><a  href="/topsites/category/Top/Sports/Disabled">Disabled</a> <span  class="small gray">( 141 )</span></li><li><a  href="/topsites/category/Top/Sports/Equestrian">Equestrian</a> <span  class="small gray">( 4,674 )</span></li><li><a  href="/topsites/category/Top/Sports/Events">Events</a> <span  class="small gray">( 177 )</span></li></ul><ul class="subcategories span3"><li><a  href="/topsites/category/Top/Sports/Extreme_Sports">Extreme Sports</a> <span  class="small gray">( 58 )</span></li><li><a  href="/topsites/category/Top/Sports/Fantasy">Fantasy</a> <span  class="small gray">( 217 )</span></li><li><a  href="/topsites/category/Top/Sports/Fencing">Fencing</a> <span  class="small gray">( 326 )</span></li><li><a  href="/topsites/category/Top/Sports/Flying_Discs">Flying Discs</a> <span  class="small gray">( 315 )</span></li><li><a  href="/topsites/category/Top/Sports/Footbag">Footbag</a> <span  class="small gray">( 4 )</span></li><li><a  href="/topsites/category/Top/Sports/Football">Football</a> <span  class="small gray">( 1,951 )</span></li><li><a  href="/topsites/category/Top/Sports/Gaelic">Gaelic</a> <span  class="small gray">( 162 )</span></li><li><a  href="/topsites/category/Top/Sports/Goalball">Goalball</a> <span  class="small gray">( 2 )</span></li><li><a  href="/topsites/category/Top/Sports/Golf">Golf</a> <span  class="small gray">( 4,795 )</span></li><li><a  href="/topsites/category/Top/Sports/Greyhound_Racing">Greyhound Racing</a> <span  class="small gray">( 52 )</span></li><li><a  href="/topsites/category/Top/Sports/Gymnastics">Gymnastics</a> <span  class="small gray">( 369 )</span></li><li><a  href="/topsites/category/Top/Sports/Handball">Handball</a> <span  class="small gray">( 10 )</span></li><li><a  href="/topsites/category/Top/Sports/Hockey">Hockey</a> <span  class="small gray">( 1,258 )</span></li><li><a  href="/topsites/category/Top/Sports/Informal_Sports">Informal Sports</a> <span  class="small gray">( 33 )</span></li><li><a  href="/topsites/category/Top/Sports/Jai_Alai">Jai Alai</a> <span  class="small gray">( 5 )</span></li><li><a  href="/topsites/category/Top/Sports/Kabbadi">Kabbadi</a> <span  class="small gray">( 4 )</span></li><li><a  href="/topsites/category/Top/Sports/Korfball">Korfball</a> <span  class="small gray">( 30 )</span></li><li><a  href="/topsites/category/Top/Sports/Lacrosse">Lacrosse</a> <span  class="small gray">( 193 )</span></li><li><a  href="/topsites/category/Top/Sports/Laser_Games">Laser Games</a> <span  class="small gray">( 59 )</span></li><li><a  href="/topsites/category/Top/Sports/Lumberjack">Lumberjack</a> <span  class="small gray">( 9 )</span></li><li><a  href="/topsites/category/Top/Sports/Martial_Arts">Martial Arts</a> <span  class="small gray">( 2,940 )</span></li></ul><ul class="subcategories span3"><li><a  href="/topsites/category/Top/Sports/Motorsports">Motorsports</a> <span  class="small gray">( 2,626 )</span></li><li><a  href="/topsites/category/Top/Sports/Multi-Sports">Multi-Sports</a> <span  class="small gray">( 204 )</span></li><li><a  href="/topsites/category/Top/Sports/Netball">Netball</a> <span  class="small gray">( 56 )</span></li><li><a  href="/topsites/category/Top/Sports/Officiating">Officiating</a> <span  class="small gray">( 9 )</span></li><li><a  href="/topsites/category/Top/Sports/Organizations">Organizations</a> <span  class="small gray">( 25 )</span></li><li><a  href="/topsites/category/Top/Sports/Orienteering">Orienteering</a> <span  class="small gray">( 32 )</span></li><li><a  href="/topsites/category/Top/Sports/Paddleball">Paddleball</a> <span  class="small gray">( 18 )</span></li><li><a  href="/topsites/category/Top/Sports/Paintball">Paintball</a> <span  class="small gray">( 289 )</span></li><li><a  href="/topsites/category/Top/Sports/People">People</a> <span  class="small gray">( 49 )</span></li><li><a  href="/topsites/category/Top/Sports/Pesäpallo">Pesäpallo</a> <span  class="small gray">( 0 )</span></li><li><a  href="/topsites/category/Top/Sports/Petanque">Petanque</a> <span  class="small gray">( 16 )</span></li><li><a  href="/topsites/category/Top/Sports/Professional">Professional</a> <span  class="small gray">( 0 )</span></li><li><a  href="/topsites/category/Top/Sports/Racquetball">Racquetball</a> <span  class="small gray">( 48 )</span></li><li><a  href="/topsites/category/Top/Sports/Resources">Resources</a> <span  class="small gray">( 119 )</span></li><li><a  href="/topsites/category/Top/Sports/Rodeo">Rodeo</a> <span  class="small gray">( 165 )</span></li><li><a  href="/topsites/category/Top/Sports/Rope_Skipping">Rope Skipping</a> <span  class="small gray">( 23 )</span></li><li><a  href="/topsites/category/Top/Sports/Rounders">Rounders</a> <span  class="small gray">( 3 )</span></li><li><a  href="/topsites/category/Top/Sports/Running">Running</a> <span  class="small gray">( 1,208 )</span></li><li><a  href="/topsites/category/Top/Sports/Sepak_Takraw">Sepak Takraw</a> <span  class="small gray">( 6 )</span></li><li><a  href="/topsites/category/Top/Sports/Skateboarding">Skateboarding</a> <span  class="small gray">( 172 )</span></li><li><a  href="/topsites/category/Top/Sports/Skating">Skating</a> <span  class="small gray">( 572 )</span></li></ul><ul class="subcategories span3"><li><a  href="/topsites/category/Top/Sports/Soccer">Soccer</a> <span  class="small gray">( 5,103 )</span></li><li><a  href="/topsites/category/Top/Sports/Softball">Softball</a> <span  class="small gray">( 170 )</span></li><li><a  href="/topsites/category/Top/Sports/Software">Software</a> <span  class="small gray">( 22 )</span></li><li><a  href="/topsites/category/Top/Sports/Squash">Squash</a> <span  class="small gray">( 179 )</span></li><li><a  href="/topsites/category/Top/Sports/Strength_Sports">Strength Sports</a> <span  class="small gray">( 352 )</span></li><li><a  href="/topsites/category/Top/Sports/Table_Tennis">Table Tennis</a> <span  class="small gray">( 73 )</span></li><li><a  href="/topsites/category/Top/Sports/Tchoukball">Tchoukball</a> <span  class="small gray">( 4 )</span></li><li><a  href="/topsites/category/Top/Sports/Team_Handball">Team Handball</a> <span  class="small gray">( 24 )</span></li><li><a  href="/topsites/category/Top/Sports/Team_Spirit">Team Spirit</a> <span  class="small gray">( 13 )</span></li><li><a  href="/topsites/category/Top/Sports/Tennis">Tennis</a> <span  class="small gray">( 297 )</span></li><li><a  href="/topsites/category/Top/Sports/Track_and_Field">Track and Field</a> <span  class="small gray">( 190 )</span></li><li><a  href="/topsites/category/Top/Sports/Volleyball">Volleyball</a> <span  class="small gray">( 277 )</span></li><li><a  href="/topsites/category/Top/Sports/Walking">Walking</a> <span  class="small gray">( 29 )</span></li><li><a  href="/topsites/category/Top/Sports/Water_Sports">Water Sports</a> <span  class="small gray">( 2,519 )</span></li><li><a  href="/topsites/category/Top/Sports/Winter_Sports">Winter Sports</a> <span  class="small gray">( 1,500 )</span></li><li><a  href="/topsites/category/Top/Sports/Women">Women</a> <span  class="small gray">( 7 )</span></li><li><a  href="/topsites/category/Top/Sports/Wrestling">Wrestling</a> <span  class="small gray">( 260 )</span></li><li><a  href="/topsites/category/Top/Sports/Youth_and_High_School">Youth and High School</a> <span  class="small gray">( 17 )</span></li></ul>
+</div>
+</div>
+</section>
+<p class="pages">Showing 50 of 500 results</p>
+<div class="row-fluid TopSitesAd">
+<div class="left">Want access to the complete list?</div>
+<div class="right"><a href="/plans">START YOUR FREE TRIAL</a></div>
+</div><div class="listings table"><div class="thead">
+<div class="tr">
+<div class="th number"></div>
+<div class="th">Site</div>
+<div class="th right"><p class="headers"><span>Daily Time on Site</span>             <span class="WhatsThis top" >
+<i class='fa fa-question-circle' aria-hidden='true'></i>
+<span class="container">
+<b>Daily Time on Site</b><br><br>Estimated daily time on site (mm:ss) per visitor to the site. Updated daily based on the trailing 3 months.
+</span>
+</span> </p></div>
+<div class="th right"><p class="headers"><span>Daily Pageviews per Visitor</span>             <span class="WhatsThis top" >
+<i class='fa fa-question-circle' aria-hidden='true'></i>
+<span class="container">
+<b>Daily Pageviews per Visitor</b><br><br>Estimated daily unique pageviews per visitor on the site. Updated daily based on the trailing 3 months.
+</span>
+</span> </p></div>
+<div class="th right"><p class="headers"><span>% of Traffic From Search</span>             <span class="WhatsThis top" >
+<i class='fa fa-question-circle' aria-hidden='true'></i>
+<span class="container">
+<b>% of Traffic From Search</b><br><br>The percentage of all referrals that came from Search engines over the trailing month. Updated daily.
+</span>
+</span> </p></div>
+<div class="th right"><p class="headers"><span>Total Sites Linking In</span>             <span class="WhatsThis top" >
+<i class='fa fa-question-circle' aria-hidden='true'></i>
+<span class="container">
+<b>Total Sites Linking In</b><br><br>The total number of sites that Alexa found that link to this site. For more information please see <a href="https://support.alexa.com/hc/en-us/articles/200444340" target="_blank">this explanation</a> of how Alexa determines the number of sites linking in.
+</span>
+</span> </p></div>
+</div>
+</div>
+<div class="tr site-listing">
+<div class="td">1</div>
+<div class="td DescriptionCell">
+<p class="">
+<a href="/siteinfo/espn.com">Espn.com</a>
+</p>
+<div class="description">
+Sports news network. Includes broadcast schedule, game scores and results, and articles on coll<span class='trucate'>&hellip;<a class='moreDesc'>More</a></span><span class="remainder">ege and professional sports.<span class='trucate'>&nbsp;<a class='lessDesc'>Less</a></span></span>
+</div>
+</div>
+<div class="td right"><p>5:44</p></div>
+<div class="td right"><p>3.04</p></div>
+<div class="td right"><p>12.30%</p></div>
+<div class="td right"><p>16,537</p></div>
+</div>
+<div class="tr site-listing">
+<div class="td">2</div>
+<div class="td DescriptionCell">
+<p class="">
+<a href="/siteinfo/cricbuzz.com">Cricbuzz.com</a>
+</p>
+<div class="description">
+News, rankings, schedules, and videos.<span class="remainder"></span>
+</div>
+</div>
+<div class="td right"><p>8:19</p></div>
+<div class="td right"><p>4.41</p></div>
+<div class="td right"><p>22.20%</p></div>
+<div class="td right"><p>1,285</p></div>
+</div>
+<div class="tr site-listing">
+<div class="td">3</div>
+<div class="td DescriptionCell">
+<p class="">
+<a href="/siteinfo/cbssports.com">Cbssports.com</a>
+</p>
+<div class="description">
+Coverage of NFL football, NBA basketball, NHL hockey, NCAA college football games, and world sp<span class='trucate'>&hellip;<a class='moreDesc'>More</a></span><span class="remainder">orts, with the latest sports statistics, scores, standings, transactions, team injury reports, and team schedules.<span class='trucate'>&nbsp;<a class='lessDesc'>Less</a></span></span>
+</div>
+</div>
+<div class="td right"><p>3:39</p></div>
+<div class="td right"><p>2.93</p></div>
+<div class="td right"><p>42.00%</p></div>
+<div class="td right"><p>6,179</p></div>
+</div>
+<div class="tr site-listing">
+<div class="td">4</div>
+<div class="td DescriptionCell">
+<p class="">
+<a href="/siteinfo/espncricinfo.com">Espncricinfo.com</a>
+</p>
+<div class="description">
+Offers international news, columns and reviews with video, audio, live scores and player profil<span class='trucate'>&hellip;<a class='moreDesc'>More</a></span><span class="remainder">es. Includes match/series archive, statistics database, ratings, and email newsletter.<span class='trucate'>&nbsp;<a class='lessDesc'>Less</a></span></span>
+</div>
+</div>
+<div class="td right"><p>6:06</p></div>
+<div class="td right"><p>3.33</p></div>
+<div class="td right"><p>18.80%</p></div>
+<div class="td right"><p>4,286</p></div>
+</div>
+<div class="tr site-listing">
+<div class="td">5</div>
+<div class="td DescriptionCell">
+<p class="">
+<a href="/siteinfo/yahoo.com">Sports.yahoo.com</a>
+</p>
+<div class="description">
+Listen to live and on-demand sports content.<span class="remainder"></span>
+</div>
+</div>
+<div class="td right"><p>3:54</p></div>
+<div class="td right"><p>3.53</p></div>
+<div class="td right"><p>8.70%</p></div>
+<div class="td right"><p>474,794</p></div>
+</div>
+<div class="tr site-listing">
+<div class="td">6</div>
+<div class="td DescriptionCell">
+<p class="">
+<a href="/siteinfo/livescore.com">Livescore.com</a>
+</p>
+<div class="description">
+Real time football (soccer) match scores across International and over 100 leagues in 34 countr<span class='trucate'>&hellip;<a class='moreDesc'>More</a></span><span class="remainder">ies on a permanent basis.<span class='trucate'>&nbsp;<a class='lessDesc'>Less</a></span></span>
+</div>
+</div>
+<div class="td right"><p>5:36</p></div>
+<div class="td right"><p>3.67</p></div>
+<div class="td right"><p>10.30%</p></div>
+<div class="td right"><p>2,524</p></div>
+</div>
+<div class="tr site-listing">
+<div class="td">7</div>
+<div class="td DescriptionCell">
+<p class="">
+<a href="/siteinfo/nba.com">Nba.com</a>
+</p>
+<div class="description">
+The official site of the National Basketball Association. Includes news, features, multimedia, <span class='trucate'>&hellip;<a class='moreDesc'>More</a></span><span class="remainder">player profiles, chat transcripts, schedules and statistics.<span class='trucate'>&nbsp;<a class='lessDesc'>Less</a></span></span>
+</div>
+</div>
+<div class="td right"><p>3:48</p></div>
+<div class="td right"><p>2.80</p></div>
+<div class="td right"><p>20.30%</p></div>
+<div class="td right"><p>16,350</p></div>
+</div>
+<div class="tr site-listing">
+<div class="td">8</div>
+<div class="td DescriptionCell">
+<p class="">
+<a href="/siteinfo/bleacherreport.com">Bleacherreport.com</a>
+</p>
+<div class="description">
+Bleacher Report is the web&#039;s largest and fastest growing community-powered sports network.<span class='trucate'>&hellip;<a class='moreDesc'>More</a></span><span class="remainder"> Since launch in February, 2008, bleacherreport.com has rapidly expanded its breadth and depth of coverage, producing quality content about all major U.S. and international sports.<span class='trucate'>&nbsp;<a class='lessDesc'>Less</a></span></span>
+</div>
+</div>
+<div class="td right"><p>2:56</p></div>
+<div class="td right"><p>2.02</p></div>
+<div class="td right"><p>17.30%</p></div>
+<div class="td right"><p>9,811</p></div>
+</div>
+<div class="tr site-listing">
+<div class="td">9</div>
+<div class="td DescriptionCell">
+<p class="">
+<a href="/siteinfo/ncaa.com">Ncaa.com</a>
+</p>
+<div class="description">
+Official website for NCAA sports news. News, articles, scores, brackets, venues, history, photo<span class='trucate'>&hellip;<a class='moreDesc'>More</a></span><span class="remainder">s, team capsules.<span class='trucate'>&nbsp;<a class='lessDesc'>Less</a></span></span>
+</div>
+</div>
+<div class="td right"><p>3:04</p></div>
+<div class="td right"><p>2.04</p></div>
+<div class="td right"><p>47.50%</p></div>
+<div class="td right"><p>3,182</p></div>
+</div>
+<div class="tr site-listing">
+<div class="td">10</div>
+<div class="td DescriptionCell">
+<p class="">
+<a href="/siteinfo/nhl.com">Nhl.com</a>
+</p>
+<div class="description">
+The official National Hockey League web site includes features, news, rosters, statistics, sche<span class='trucate'>&hellip;<a class='moreDesc'>More</a></span><span class="remainder">dules, teams, live game radio broadcasts, and video clips.<span class='trucate'>&nbsp;<a class='lessDesc'>Less</a></span></span>
+</div>
+</div>
+<div class="td right"><p>5:05</p></div>
+<div class="td right"><p>3.22</p></div>
+<div class="td right"><p>15.90%</p></div>
+<div class="td right"><p>8,169</p></div>
+</div>
+<div class="tr site-listing">
+<div class="td">11</div>
+<div class="td DescriptionCell">
+<p class="">
+<a href="/siteinfo/goal.com">Goal.com</a>
+</p>
+<div class="description">
+New media company that provides soccer news and entertainment through its internet and mobile p<span class='trucate'>&hellip;<a class='moreDesc'>More</a></span><span class="remainder">latforms. Content is available in more than 15 languages, and attracts fans from over 215 countries.<span class='trucate'>&nbsp;<a class='lessDesc'>Less</a></span></span>
+</div>
+</div>
+<div class="td right"><p>4:19</p></div>
+<div class="td right"><p>2.71</p></div>
+<div class="td right"><p>27.50%</p></div>
+<div class="td right"><p>9,892</p></div>
+</div>
+<div class="tr site-listing">
+<div class="td">12</div>
+<div class="td DescriptionCell">
+<p class="">
+<a href="/siteinfo/strava.com">Strava.com</a>
+</p>
+<div class="description">
+Upload runs and rides from GPS devices, keep track of personal records and compare segment time<span class='trucate'>&hellip;<a class='moreDesc'>More</a></span><span class="remainder">s against those of other athletes.<span class='trucate'>&nbsp;<a class='lessDesc'>Less</a></span></span>
+</div>
+</div>
+<div class="td right"><p>8:12</p></div>
+<div class="td right"><p>6.39</p></div>
+<div class="td right"><p>7.50%</p></div>
+<div class="td right"><p>3,913</p></div>
+</div>
+<div class="tr site-listing">
+<div class="td">13</div>
+<div class="td DescriptionCell">
+<p class="">
+<a href="/siteinfo/flashscore.com">Flashscore.com</a>
+</p>
+<div class="description">
+Most comprehensive livescore service on the global market offering detailed league tables and t<span class='trucate'>&hellip;<a class='moreDesc'>More</a></span><span class="remainder">ournament draws, live centre and current betting odds comparison.<span class='trucate'>&nbsp;<a class='lessDesc'>Less</a></span></span>
+</div>
+</div>
+<div class="td right"><p>15:51</p></div>
+<div class="td right"><p>8.01</p></div>
+<div class="td right"><p>9.70%</p></div>
+<div class="td right"><p>601</p></div>
+</div>
+<div class="tr site-listing">
+<div class="td">14</div>
+<div class="td DescriptionCell">
+<p class="">
+<a href="/siteinfo/premierleague.com">Premierleague.com</a>
+</p>
+<div class="description">
+The official site with news, fixtures, results, league table, statistics, club profiles and tra<span class='trucate'>&hellip;<a class='moreDesc'>More</a></span><span class="remainder">vel details.<span class='trucate'>&nbsp;<a class='lessDesc'>Less</a></span></span>
+</div>
+</div>
+<div class="td right"><p>4:27</p></div>
+<div class="td right"><p>2.59</p></div>
+<div class="td right"><p>12.60%</p></div>
+<div class="td right"><p>2,831</p></div>
+</div>
+<div class="tr site-listing">
+<div class="td">15</div>
+<div class="td DescriptionCell">
+<p class="">
+<a href="/siteinfo/skysports.com">Skysports.com</a>
+</p>
+<div class="description">
+Breaking Sports news from around the world.<span class="remainder"></span>
+</div>
+</div>
+<div class="td right"><p>4:03</p></div>
+<div class="td right"><p>2.91</p></div>
+<div class="td right"><p>27.70%</p></div>
+<div class="td right"><p>5,405</p></div>
+</div>
+<div class="tr site-listing">
+<div class="td">16</div>
+<div class="td DescriptionCell">
+<p class="">
+<a href="/siteinfo/nbcsports.com">Nbcsports.com</a>
+</p>
+<div class="description">
+Sports news from the US broadcast network.<span class="remainder"></span>
+</div>
+</div>
+<div class="td right"><p>3:10</p></div>
+<div class="td right"><p>2.16</p></div>
+<div class="td right"><p>22.10%</p></div>
+<div class="td right"><p>5,857</p></div>
+</div>
+<div class="tr site-listing">
+<div class="td">17</div>
+<div class="td DescriptionCell">
+<p class="">
+<a href="/siteinfo/rei.com">Rei.com</a>
+</p>
+<div class="description">
+REI Cooperative provides gear for camping, hiking, climbing, cycling, paddling, skiing gear and<span class='trucate'>&hellip;<a class='moreDesc'>More</a></span><span class="remainder"> clothing; product information, how-to, and sale items.<span class='trucate'>&nbsp;<a class='lessDesc'>Less</a></span></span>
+</div>
+</div>
+<div class="td right"><p>5:12</p></div>
+<div class="td right"><p>4.68</p></div>
+<div class="td right"><p>39.20%</p></div>
+<div class="td right"><p>5,897</p></div>
+</div>
+<div class="tr site-listing">
+<div class="td">18</div>
+<div class="td DescriptionCell">
+<p class="">
+<a href="/siteinfo/iplt20.com">Iplt20.com</a>
+</p>
+<div class="description">
+Official site provides news, scorecards, videos and pictures. Free live streaming is provided d<span class='trucate'>&hellip;<a class='moreDesc'>More</a></span><span class="remainder">uring the matches.<span class='trucate'>&nbsp;<a class='lessDesc'>Less</a></span></span>
+</div>
+</div>
+<div class="td right"><p>5:46</p></div>
+<div class="td right"><p>3.84</p></div>
+<div class="td right"><p>38.70%</p></div>
+<div class="td right"><p>720</p></div>
+</div>
+<div class="tr site-listing">
+<div class="td">19</div>
+<div class="td DescriptionCell">
+<p class="">
+<a href="/siteinfo/nfl.com">Nfl.com</a>
+</p>
+<div class="description">
+Official site of the National Football League. It delivers in-depth team pages for all clubs, g<span class='trucate'>&hellip;<a class='moreDesc'>More</a></span><span class="remainder">ame-day coverage with real time statistics and play-by-play and chats with top players.<span class='trucate'>&nbsp;<a class='lessDesc'>Less</a></span></span>
+</div>
+</div>
+<div class="td right"><p>3:13</p></div>
+<div class="td right"><p>2.25</p></div>
+<div class="td right"><p>27.10%</p></div>
+<div class="td right"><p>10,737</p></div>
+</div>
+<div class="tr site-listing">
+<div class="td">20</div>
+<div class="td DescriptionCell">
+<p class="">
+<a href="/siteinfo/formula1.com">Formula1.com</a>
+</p>
+<div class="description">
+Live timing, video, mobile, tickets, news, results and galleries.<span class="remainder"></span>
+</div>
+</div>
+<div class="td right"><p>4:12</p></div>
+<div class="td right"><p>3.22</p></div>
+<div class="td right"><p>28.90%</p></div>
+<div class="td right"><p>2,937</p></div>
+</div>
+<div class="tr site-listing">
+<div class="td">21</div>
+<div class="td DescriptionCell">
+<p class="">
+<a href="/siteinfo/yahoo.com">Baseball.fantasysports.yahoo.com</a>
+</p>
+<div class="description">
+Offers free and paid games, news, statistics, player rankings, and forums.<span class="remainder"></span>
+</div>
+</div>
+<div class="td right"><p>3:54</p></div>
+<div class="td right"><p>3.53</p></div>
+<div class="td right"><p>8.70%</p></div>
+<div class="td right"><p>474,794</p></div>
+</div>
+<div class="tr site-listing">
+<div class="td">22</div>
+<div class="td DescriptionCell">
+<p class="">
+<a href="/siteinfo/wwe.com">Wwe.com</a>
+</p>
+<div class="description">
+Official site with wrestler information, corporate details, news, merchandise, and a directory <span class='trucate'>&hellip;<a class='moreDesc'>More</a></span><span class="remainder">of affiliated sites. [Formerly the World Wrestling Federation.]<span class='trucate'>&nbsp;<a class='lessDesc'>Less</a></span></span>
+</div>
+</div>
+<div class="td right"><p>4:19</p></div>
+<div class="td right"><p>3.89</p></div>
+<div class="td right"><p>24.30%</p></div>
+<div class="td right"><p>4,435</p></div>
+</div>
+<div class="tr site-listing">
+<div class="td">23</div>
+<div class="td DescriptionCell">
+<p class="">
+<a href="/siteinfo/filgoal.com">Filgoal.com</a>
+</p>
+<div class="description">
+Daily coverage for the egyptian soccer news and the sports in general<span class="remainder"></span>
+</div>
+</div>
+<div class="td right"><p>5:53</p></div>
+<div class="td right"><p>3.17</p></div>
+<div class="td right"><p>15.60%</p></div>
+<div class="td right"><p>436</p></div>
+</div>
+<div class="tr site-listing">
+<div class="td">24</div>
+<div class="td DescriptionCell">
+<p class="">
+<a href="/siteinfo/si.com">Si.com</a>
+</p>
+<div class="description">
+Sports news from Sports Illustrated Magazine.<span class="remainder"></span>
+</div>
+</div>
+<div class="td right"><p>3:03</p></div>
+<div class="td right"><p>1.90</p></div>
+<div class="td right"><p>35.00%</p></div>
+<div class="td right"><p>5,475</p></div>
+</div>
+<div class="tr site-listing">
+<div class="td">25</div>
+<div class="td DescriptionCell">
+<p class="">
+<a href="/siteinfo/motorsport.com">Motorsport.com</a>
+</p>
+<div class="description">
+Motorsport.com is a digital distribution platform which provides, via its website and social me<span class='trucate'>&hellip;<a class='moreDesc'>More</a></span><span class="remainder">dia networks, interactive multimedia coverage and experiences of F1, NASCAR, Le Mans and other major race series through news, photos, videos, livestreams, race standings, schedules, locations, race team profiles and other unique content.<span class='trucate'>&nbsp;<a class='lessDesc'>Less</a></span></span>
+</div>
+</div>
+<div class="td right"><p>5:50</p></div>
+<div class="td right"><p>3.08</p></div>
+<div class="td right"><p>30.80%</p></div>
+<div class="td right"><p>12,252</p></div>
+</div>
+<div class="tr site-listing">
+<div class="td">26</div>
+<div class="td DescriptionCell">
+<p class="">
+<a href="/siteinfo/uefa.com">Uefa.com</a>
+</p>
+<div class="description">
+The Union des Associations Européennes de Football is the governing body of Association Footbal<span class='trucate'>&hellip;<a class='moreDesc'>More</a></span><span class="remainder">l in Europe. Results from the UEFA Champions League, and the UEFA Cup plus news, photographs, videos, games, and data for clubs and national teams.<span class='trucate'>&nbsp;<a class='lessDesc'>Less</a></span></span>
+</div>
+</div>
+<div class="td right"><p>3:51</p></div>
+<div class="td right"><p>2.89</p></div>
+<div class="td right"><p>32.40%</p></div>
+<div class="td right"><p>8,817</p></div>
+</div>
+<div class="tr site-listing">
+<div class="td">27</div>
+<div class="td DescriptionCell">
+<p class="">
+<a href="/siteinfo/deadspin.com">Deadspin.com</a>
+</p>
+<div class="description">
+Sports news and commentary with a humorous slant.<span class="remainder"></span>
+</div>
+</div>
+<div class="td right"><p>4:03</p></div>
+<div class="td right"><p>2.24</p></div>
+<div class="td right"><p>10.60%</p></div>
+<div class="td right"><p>6,112</p></div>
+</div>
+<div class="tr site-listing">
+<div class="td">28</div>
+<div class="td DescriptionCell">
+<p class="">
+<a href="/siteinfo/basketball-reference.com">Basketball-reference.com</a>
+</p>
+<div class="description">
+Historical and current statistics.<span class="remainder"></span>
+</div>
+</div>
+<div class="td right"><p>4:26</p></div>
+<div class="td right"><p>3.67</p></div>
+<div class="td right"><p>68.20%</p></div>
+<div class="td right"><p>1,467</p></div>
+</div>
+<div class="tr site-listing">
+<div class="td">29</div>
+<div class="td DescriptionCell">
+<p class="">
+<a href="/siteinfo/baseball-reference.com">Baseball-reference.com</a>
+</p>
+<div class="description">
+Current and past statistics for every player, team and league throughout history.<span class="remainder"></span>
+</div>
+</div>
+<div class="td right"><p>4:28</p></div>
+<div class="td right"><p>3.46</p></div>
+<div class="td right"><p>67.70%</p></div>
+<div class="td right"><p>3,653</p></div>
+</div>
+<div class="tr site-listing">
+<div class="td">30</div>
+<div class="td DescriptionCell">
+<p class="">
+<a href="/siteinfo/sbnation.com">Sbnation.com</a>
+</p>
+<div class="description">
+A sports weblog network of, by and for the fans. News, commentary, photographs, videos, and art<span class='trucate'>&hellip;<a class='moreDesc'>More</a></span><span class="remainder">icles.<span class='trucate'>&nbsp;<a class='lessDesc'>Less</a></span></span>
+</div>
+</div>
+<div class="td right"><p>2:26</p></div>
+<div class="td right"><p>1.69</p></div>
+<div class="td right"><p>32.90%</p></div>
+<div class="td right"><p>8,121</p></div>
+</div>
+<div class="tr site-listing">
+<div class="td">31</div>
+<div class="td DescriptionCell">
+<p class="">
+<a href="/siteinfo/rotoworld.com">Rotoworld.com</a>
+</p>
+<div class="description">
+Information, updated daily, for fantasy sports players. Includes latest information, injuries, <span class='trucate'>&hellip;<a class='moreDesc'>More</a></span><span class="remainder">rosters, depth charts and message boards.<span class='trucate'>&nbsp;<a class='lessDesc'>Less</a></span></span>
+</div>
+</div>
+<div class="td right"><p>5:06</p></div>
+<div class="td right"><p>2.83</p></div>
+<div class="td right"><p>12.90%</p></div>
+<div class="td right"><p>1,395</p></div>
+</div>
+<div class="tr site-listing">
+<div class="td">32</div>
+<div class="td DescriptionCell">
+<p class="">
+<a href="/siteinfo/soccerway.com">Soccerway.com</a>
+</p>
+<div class="description">
+Live scores, statistics, results, fixtures and news for over 700 leagues & cups worldwide.<span class="remainder"></span>
+</div>
+</div>
+<div class="td right"><p>9:53</p></div>
+<div class="td right"><p>7.56</p></div>
+<div class="td right"><p>20.30%</p></div>
+<div class="td right"><p>1,663</p></div>
+</div>
+<div class="tr site-listing">
+<div class="td">33</div>
+<div class="td DescriptionCell">
+<p class="">
+<a href="/siteinfo/tsn.ca">Tsn.ca</a>
+</p>
+<div class="description">
+Canada's national sports channel.<span class="remainder"></span>
+</div>
+</div>
+<div class="td right"><p>4:23</p></div>
+<div class="td right"><p>2.50</p></div>
+<div class="td right"><p>11.10%</p></div>
+<div class="td right"><p>2,381</p></div>
+</div>
+<div class="tr site-listing">
+<div class="td">34</div>
+<div class="td DescriptionCell">
+<p class="">
+<a href="/siteinfo/rivals.com">Rivals.com</a>
+</p>
+<div class="description">
+Contains coverage of college and professional sports with articles, game summaries, current sta<span class='trucate'>&hellip;<a class='moreDesc'>More</a></span><span class="remainder">ndings and statistics.<span class='trucate'>&nbsp;<a class='lessDesc'>Less</a></span></span>
+</div>
+</div>
+<div class="td right"><p>9:22</p></div>
+<div class="td right"><p>6.12</p></div>
+<div class="td right"><p>13.30%</p></div>
+<div class="td right"><p>1,488</p></div>
+</div>
+<div class="tr site-listing">
+<div class="td">35</div>
+<div class="td DescriptionCell">
+<p class="">
+<a href="/siteinfo/hkjc.com">Hkjc.com</a>
+</p>
+<div class="description">
+Complete information on horseracing in China including upcoming races and results, statistics, <span class='trucate'>&hellip;<a class='moreDesc'>More</a></span><span class="remainder">on-line media coverage and news, archives, charity events, and a beginner's guide to the sport.<span class='trucate'>&nbsp;<a class='lessDesc'>Less</a></span></span>
+</div>
+</div>
+<div class="td right"><p>9:52</p></div>
+<div class="td right"><p>5.27</p></div>
+<div class="td right"><p>12.70%</p></div>
+<div class="td right"><p>1,197</p></div>
+</div>
+<div class="tr site-listing">
+<div class="td">36</div>
+<div class="td DescriptionCell">
+<p class="">
+<a href="/siteinfo/pgatour.com">Pgatour.com</a>
+</p>
+<div class="description">
+Providing scores, news, schedules, tickets, and live chat related to all U.S. tours.<span class="remainder"></span>
+</div>
+</div>
+<div class="td right"><p>3:56</p></div>
+<div class="td right"><p>2.31</p></div>
+<div class="td right"><p>25.70%</p></div>
+<div class="td right"><p>2,559</p></div>
+</div>
+<div class="tr site-listing">
+<div class="td">37</div>
+<div class="td DescriptionCell">
+<p class="">
+<a href="/siteinfo/hattrick.org">Hattrick.org</a>
+</p>
+<div class="description">
+Free football management game - most popular in the world. Train, trade and outwit all competit<span class='trucate'>&hellip;<a class='moreDesc'>More</a></span><span class="remainder">ing coaches! Very lively community, near one million active users.<span class='trucate'>&nbsp;<a class='lessDesc'>Less</a></span></span>
+</div>
+</div>
+<div class="td right"><p>17:01</p></div>
+<div class="td right"><p>13.40</p></div>
+<div class="td right"><p>3.60%</p></div>
+<div class="td right"><p>824</p></div>
+</div>
+<div class="tr site-listing">
+<div class="td">38</div>
+<div class="td DescriptionCell">
+<p class="">
+<a href="/siteinfo/whoscored.com">Whoscored.com</a>
+</p>
+<div class="description">
+Football Livescores and Statistics<span class="remainder"></span>
+</div>
+</div>
+<div class="td right"><p>7:19</p></div>
+<div class="td right"><p>5.36</p></div>
+<div class="td right"><p>16.40%</p></div>
+<div class="td right"><p>484</p></div>
+</div>
+<div class="tr site-listing">
+<div class="td">39</div>
+<div class="td DescriptionCell">
+<p class="">
+<a href="/siteinfo/nbcsports.com">Profootballtalk.nbcsports.com</a>
+</p>
+<div class="description">
+Daily NFL coverage, breaking news, and rumors.<span class="remainder"></span>
+</div>
+</div>
+<div class="td right"><p>3:10</p></div>
+<div class="td right"><p>2.16</p></div>
+<div class="td right"><p>22.10%</p></div>
+<div class="td right"><p>5,857</p></div>
+</div>
+<div class="tr site-listing">
+<div class="td">40</div>
+<div class="td DescriptionCell">
+<p class="">
+<a href="/siteinfo/afl.com.au">Afl.com.au</a>
+</p>
+<div class="description">
+The official site with news, previews, and general information. Also provides the rules of Aust<span class='trucate'>&hellip;<a class='moreDesc'>More</a></span><span class="remainder">ralian Rules for the beginners to the game.<span class='trucate'>&nbsp;<a class='lessDesc'>Less</a></span></span>
+</div>
+</div>
+<div class="td right"><p>4:32</p></div>
+<div class="td right"><p>3.42</p></div>
+<div class="td right"><p>16.20%</p></div>
+<div class="td right"><p>1,212</p></div>
+</div>
+<div class="tr site-listing">
+<div class="td">41</div>
+<div class="td DescriptionCell">
+<p class="">
+<a href="/siteinfo/sherdog.com">Sherdog.com</a>
+</p>
+<div class="description">
+Mixed Martial Arts, news, interviews and video clips.<span class="remainder"></span>
+</div>
+</div>
+<div class="td right"><p>5:13</p></div>
+<div class="td right"><p>4.21</p></div>
+<div class="td right"><p>37.90%</p></div>
+<div class="td right"><p>1,916</p></div>
+</div>
+<div class="tr site-listing">
+<div class="td">42</div>
+<div class="td DescriptionCell">
+<p class="">
+<a href="/siteinfo/sportingnews.com">Sportingnews.com</a>
+</p>
+<div class="description">
+Columnists, articles, blogs, games, scores, photographs, statistics, and inside information.<span class="remainder"></span>
+</div>
+</div>
+<div class="td right"><p>2:19</p></div>
+<div class="td right"><p>1.76</p></div>
+<div class="td right"><p>59.00%</p></div>
+<div class="td right"><p>4,974</p></div>
+</div>
+<div class="tr site-listing">
+<div class="td">43</div>
+<div class="td DescriptionCell">
+<p class="">
+<a href="/siteinfo/pinkbike.com">Pinkbike.com</a>
+</p>
+<div class="description">
+Pinkbike.com is the world’s most trafficked biking website. With an expansive and affluent base<span class='trucate'>&hellip;<a class='moreDesc'>More</a></span><span class="remainder"> of 16-35 year old males who are actively engaged in the sport, Pinkbike is the primary news and media resource for a massive and emerging base of bike enthusiasts who are looking for the best and latest products on the market.<span class='trucate'>&nbsp;<a class='lessDesc'>Less</a></span></span>
+</div>
+</div>
+<div class="td right"><p>6:51</p></div>
+<div class="td right"><p>5.78</p></div>
+<div class="td right"><p>13.80%</p></div>
+<div class="td right"><p>1,500</p></div>
+</div>
+<div class="tr site-listing">
+<div class="td">44</div>
+<div class="td DescriptionCell">
+<p class="">
+<a href="/siteinfo/foxsports.com">Foxsports.com</a>
+</p>
+<div class="description">
+News, features, statistics, scores, standings, and game and programming schedules.<span class="remainder"></span>
+</div>
+</div>
+<div class="td right"><p>2:24</p></div>
+<div class="td right"><p>1.93</p></div>
+<div class="td right"><p>46.30%</p></div>
+<div class="td right"><p>8,198</p></div>
+</div>
+<div class="tr site-listing">
+<div class="td">45</div>
+<div class="td DescriptionCell">
+<p class="">
+<a href="/siteinfo/active.com">Active.com</a>
+</p>
+<div class="description">
+Search and Register Online for Running, Triathlon, Duathlon, Cycling, Mountain Biking and Swimm<span class='trucate'>&hellip;<a class='moreDesc'>More</a></span><span class="remainder">ing events.<span class='trucate'>&nbsp;<a class='lessDesc'>Less</a></span></span>
+</div>
+</div>
+<div class="td right"><p>3:23</p></div>
+<div class="td right"><p>2.88</p></div>
+<div class="td right"><p>36.50%</p></div>
+<div class="td right"><p>7,337</p></div>
+</div>
+<div class="tr site-listing">
+<div class="td">46</div>
+<div class="td DescriptionCell">
+<p class="">
+<a href="/siteinfo/maxpreps.com">Maxpreps.com</a>
+</p>
+<div class="description">
+MaxPreps is America s Source for High School Sports. MaxPreps contains schedules, scores, stand<span class='trucate'>&hellip;<a class='moreDesc'>More</a></span><span class="remainder">ings and player stats. MaxPreps features thousands of professional quality high school action photos from around the nation.<span class='trucate'>&nbsp;<a class='lessDesc'>Less</a></span></span>
+</div>
+</div>
+<div class="td right"><p>4:51</p></div>
+<div class="td right"><p>5.89</p></div>
+<div class="td right"><p>50.80%</p></div>
+<div class="td right"><p>3,155</p></div>
+</div>
+<div class="tr site-listing">
+<div class="td">47</div>
+<div class="td DescriptionCell">
+<p class="">
+<a href="/siteinfo/ronaldo7.net">Ronaldo7.net</a>
+</p>
+<div class="description">
+A Cristiano Ronaldo fan site, with all the latest news, pictures, videos and media contents abo<span class='trucate'>&hellip;<a class='moreDesc'>More</a></span><span class="remainder">ut CR7, as well as relevant news from Real Madrid and Portugal<span class='trucate'>&nbsp;<a class='lessDesc'>Less</a></span></span>
+</div>
+</div>
+<div class="td right"><p>1:22</p></div>
+<div class="td right"><p>1.95</p></div>
+<div class="td right"><p>32.10%</p></div>
+<div class="td right"><p>443</p></div>
+</div>
+<div class="tr site-listing">
+<div class="td">48</div>
+<div class="td DescriptionCell">
+<p class="">
+<a href="/siteinfo/eurosport.com">Eurosport.com</a>
+</p>
+<div class="description">
+Latest news from worldwide sport events.<span class="remainder"></span>
+</div>
+</div>
+<div class="td right"><p>3:01</p></div>
+<div class="td right"><p>2.22</p></div>
+<div class="td right"><p>34.80%</p></div>
+<div class="td right"><p>2,544</p></div>
+</div>
+<div class="tr site-listing">
+<div class="td">49</div>
+<div class="td DescriptionCell">
+<p class="">
+<a href="/siteinfo/soccerstand.com">Soccerstand.com</a>
+</p>
+<div class="description">
+Live score service, real-time score updates for leagues, cups, and competitions around the world.<span class="remainder">d.<span class='trucate'>&nbsp;<a class='lessDesc'>Less</a></span></span>
+</div>
+</div>
+<div class="td right"><p>15:38</p></div>
+<div class="td right"><p>7.96</p></div>
+<div class="td right"><p>4.60%</p></div>
+<div class="td right"><p>324</p></div>
+</div>
+<div class="tr site-listing">
+<div class="td">50</div>
+<div class="td DescriptionCell">
+<p class="">
+<a href="/siteinfo/football365.com">Football365.com</a>
+</p>
+<div class="description">
+A light hearted look at the World of Football. Daily features such as mediawatch and the famous<span class='trucate'>&hellip;<a class='moreDesc'>More</a></span><span class="remainder"> mailbox, plus join the infamous forum!<span class='trucate'>&nbsp;<a class='lessDesc'>Less</a></span></span>
+</div>
+</div>
+<div class="td right"><p>13:47</p></div>
+<div class="td right"><p>12.80</p></div>
+<div class="td right"><p>6.80%</p></div>
+<div class="td right"><p>855</p></div>
+</div>
+</div>
+<p class="pages">Showing 50 of 500 results</p>
+<div class="row-fluid TopSitesAd">
+<div class="left">Want access to the complete list?</div>
+<div class="right"><a href="/plans">START YOUR FREE TRIAL</a></div>
+</div>            <a class="apilink"  href="https://aws.amazon.com/awis/"> Looking for the API?  </a>
+</div>
+</div>
+</span>
+</span>
+</section>
+</div>
+</div>
+</section>
+<footer id="alx-footer" class="alx-footer font-1">
+<div class="Contained">
+<section id="footer-content" class="footer-content row-fluid">
+<div class="span3">
+<a class="title footer-link" href="https://try.alexa.com/marketing-stack/seo-tools">SEO Tools</a>
+<ul class="">
+<li><a class='footer-link' href="https://try.alexa.com/marketing-stack/keyword-difficulty-tool">Keyword Difficulty Tool</a></li>
+<li><a class='footer-link' href="https://try.alexa.com/marketing-stack/competitor-keyword-matrix">Competitor Keyword Matrix</a></li>
+<li><a class='footer-link' href="https://try.alexa.com/marketing-stack/on-page-seo-checker">On-Page SEO Checker</a></li>
+<li><a class='footer-link' href='https://try.alexa.com/marketing-stack/competitor-backlink-checker'>Competitor Backlink Checker</a></li>
+<li><a class='footer-link' href="https://try.alexa.com/marketing-stack/seo-audit-tool">SEO Audit Tool</a></li>
+</ul>
+</div>
+<div class="span4">
+<a class="title footer-link" href="https://try.alexa.com/marketing-stack/competitive-analysis-tools">Competitive Analysis Tools</a>
+<ul class="">
+<li><a class='footer-link' href="https://try.alexa.com/marketing-stack/audience-overlap-tool">Audience Overlap Tool</a></li>
+<li><a class='footer-link' href='https://try.alexa.com/marketing-stack/site-comparisons'>Site Comparisons</a></li>
+<li><a class='footer-link' href="/siteinfo">Website Traffic Statistics</a></li>
+<li><a class='footer-link' href="/find-similar-sites">Find Similar Sites</a></li>
+<li><a class='footer-link' href="/topsites">Top Sites</a></li>
+<li><a class='footer-link' href="/toolbar">Alexa Browser Extension</a></li>
+<li><a class='footer-link' href="https://aws.amazon.com/marketplace/seller-profile?id=4a9dbf38-88b1-4e87-a459-271154a77d2e">API</a></li>
+</ul>
+</div>
+<div class="span3">
+<p class="title footer-link">Marketing Resources</p>
+<ul>
+<li><a class='footer-link' href='https://try.alexa.com/resources'>eBooks</a></li>
+<li><a class='footer-link' href='https://try.alexa.com/alexa-tutorials/'>Video Tutorials</a></li>
+<li><a class='footer-link' href='http://blog.alexa.com/'>Blog</a></li>
+</div>
+<div class="span2">
+<p class="title">Company</p>
+<ul>
+<li><a class='footer-link' href="/about">About</a></li>
+<li><a class='footer-link' href="/about/management">Team</a></li>
+<li><a class='footer-link' href="/about/careers">Careers</a></li>
+<li><a class='footer-link' href="/plans">Pricing</a></li>
+<li><a class='footer-link' href="/support">Support</a></li>
+<li><a class='footer-link' href="/contact-us">Contact Us</a></li>
+</div>
+</section>
+</div>
+<section id="footer-legal" class="footer-legal loggedout">
+<div class="Contained">
+<span class="row-fluid">
+<section id="footer-copy" class="span8 footer-copy">
+<span>&copy; Alexa Internet, Inc. 1996 - 2019</span><a href="/help/privacy">Privacy</a><a href="/help/terms">Terms</a>
+</section>
+<section id="footer-terms" class="span4 align-right footer-social">
+<a href="https://www.facebook.com/alexainternet" target="_blank" class="fa fa-facebook footer-link">
+</a>
+<a href="https://twitter.com/alexainternet" target="_blank" class="fa fa-twitter footer-link">
+</a>
+<a href="https://www.linkedin.com/company/alexa-internet" target="_blank" class="fa fa-linkedin footer-link">
+</a>
+</section>
+<section class="mobile-legal">
+<div class="row-fluid">
+<div class="half"><a class='footer-link' href="https://aws.amazon.com/marketplace/seller-profile?id=4a9dbf38-88b1-4e87-a459-271154a77d2e">API</a></div>
+<div class="half"><a class='footer-link ' href="/contact-us">Contact Us</a></div>
+</div>
+<div class="row-fluid">
+<div class="half"><a class='footer-link' href="/help/privacy">Privacy</a></div>
+<div class="half"><a class='footer-link' href="/help/terms">Terms</a></div>
+</div>
+<div class="row-fluid" style="text-align:center; color:#667fa7; padding:10px 0; border-bottom:none;">&copy; Alexa Internet, Inc. 1996 - 2019</div>
+</section>
+</span>
+</div>
+<div style="clear:both;height:0px"></div>
+</section>
+</footer>
+</div>
+</div>
+<div id="ToolMenu" class="modal hide fade stay navmodals" tabindex="-1" data-keyboard="false" data-backdrop="static" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="display:none;">
+<h3 class="popmenu">Tools</h3>
+<div class='navScrollableCtnr'>
+<div class='NavScrollable'>
+<span class="BigItem "><span class='ppoverdl img-lock img-lock-fa onclick liPopover '  data-ppoverdl='Audits'>Site Audits </span><span class='ppover img-lock img-lock-fa onclick liPopover ' data-placement='right' data-ppover='Audits'>Site Audits </span><div id="Audits" data-title='Upgrade to View' class='hide-elem'><p class="mg-btm">Site Audits are available in the Alexa Pro Advanced Plans.</p>
+<a href="/plans?ax_atid=" class="btn btn-p2 ppover-close">Upgrade</a>
+</div></span>
+<div class="BigItem">
+<p class='SidenavMenuDropDown' data-navsection="seo_tools" data-name='SEO Tools'>SEO Tools <i class='fa fa-plus'></i></p>
+<ul class='SideNavDropDown' style='display:none'>
+<li class=""><span class='ppoverdl img-lock img-lock-fa onclick liPopover '  data-ppoverdl='matrix'>Competitor Keyword Matrix </span><span class='ppover img-lock img-lock-fa onclick liPopover ' data-placement='right' data-ppover='matrix'>Competitor Keyword Matrix </span><div id="matrix" data-title='Upgrade to View' class='hide-elem'><p class="mg-btm">The Competitor Keyword Matrix is available in the Alexa Pro Advanced Plans.</p>
+<a href="/plans?ax_atid=" class="btn btn-p2 ppover-close">Upgrade</a>
+</div></li>
+<li class=""><span class='ppoverdl img-lock img-lock-fa onclick liPopover '  data-ppoverdl='backlinks'>Competitor Backlink Checker </span><span class='ppover img-lock img-lock-fa onclick liPopover ' data-placement='right' data-ppover='backlinks'>Competitor Backlink Checker </span><div id="backlinks" data-title='Upgrade to View' class='hide-elem'><p class="mg-btm">The Competitor Backlink Checker is available in the Alexa Pro Advanced Plans.</p>
+<a href="/plans?ax_atid=" class="btn btn-p2 ppover-close">Upgrade</a>
+</div></li>
+<li class=""><span class='ppoverdl img-lock img-lock-fa onclick liPopover '  data-ppoverdl='keyop'>Keyword Difficulty Tool </span><span class='ppover img-lock img-lock-fa onclick liPopover ' data-placement='right' data-ppover='keyop'>Keyword Difficulty Tool </span><div id="keyop" data-title='Upgrade to View' class='hide-elem'><p class="mg-btm">The Keyword Difficulty Tool is available in the Alexa Pro Advanced Plans.</p>
+<a href="/plans?ax_atid=" class="btn btn-p2 ppover-close">Upgrade</a>
+</div></li>
+<li class=""><span class='ppoverdl img-lock img-lock-fa onclick liPopover '  data-ppoverdl='keywordQuery'>Keyword Share of Voice </span><span class='ppover img-lock img-lock-fa onclick liPopover ' data-placement='right' data-ppover='keywordQuery'>Keyword Share of Voice </span><div id="keywordQuery" data-title='Upgrade to View' class='hide-elem'><p class="mg-btm">Keyword Share of Voice is available in the Alexa Pro Advanced Plans.</p>
+<a href="/plans?ax_atid=" class="btn btn-p2 ppover-close">Upgrade</a>
+</div></li>
+<li class=""><span class='ppoverdl img-lock img-lock-fa onclick liPopover '  data-ppoverdl='cop'>On-Page SEO Checker </span><span class='ppover img-lock img-lock-fa onclick liPopover ' data-placement='right' data-ppover='cop'>On-Page SEO Checker </span><div id="cop" data-title='Upgrade to View' class='hide-elem'><p class="mg-btm">The On-Page SEO Checker is available in the Alexa Pro Advanced Plans.</p>
+<a href="/plans?ax_atid=" class="btn btn-p2 ppover-close">Upgrade</a>
+</div></li>
+</ul>
+</div>
+<div class="BigItem">
+<p class='SidenavMenuDropDown' data-navsection="audience_analysis" data-name='Audience Analysis'>Audience Analysis <i class='fa fa-plus'></i></p>
+<ul class='SideNavDropDown' style='display:none'>
+<li class=""><span class='ppoverdl img-lock img-lock-fa onclick liPopover '  data-ppoverdl='overlap'>Audience Overlap Tool </span><span class='ppover img-lock img-lock-fa onclick liPopover ' data-placement='right' data-ppover='overlap'>Audience Overlap Tool </span><div id="overlap" data-title='Upgrade to View' class='hide-elem'><p class="mg-btm">The Audience Overlap Tool is available in the Alexa Pro Advanced Plans.</p>
+<a href="/plans?ax_atid=" class="btn btn-p2 ppover-close">Upgrade</a>
+</div></li>
+<li class=""><span class='ppoverdl img-lock img-lock-fa onclick liPopover '  data-ppoverdl='interest'>Audience Interest Tool (New)</span><span class='ppover img-lock img-lock-fa onclick liPopover ' data-placement='right' data-ppover='interest'>Audience Interest Tool (New)</span><div id="interest" data-title='Upgrade to View' class='hide-elem'><p class="mg-btm">The Audience Interest Tool is available in the Alexa Pro Advanced Plans.</p>
+<a href="/plans?ax_atid=" class="btn btn-p2 ppover-close">Upgrade</a>
+</div></li>
+</ul>
+</div>
+<div class="BigItem">
+<p class='SidenavMenuDropDown' data-navsection="competitive_analysis" data-name='Competitive Analysis'>Competitive Analysis <i class='fa fa-plus'></i></p>
+<ul class='SideNavDropDown' style='display:none'>
+<li class=""><a data-widget="ignore" href="/siteinfo" data-name='Site Overview'>Site Overview</a></li>
+<li class=""><span class='ppoverdl img-lock img-lock-fa onclick liPopover '  data-ppoverdl='comparison'>Site Comparisons </span><span class='ppover img-lock img-lock-fa onclick liPopover ' data-placement='right' data-ppover='comparison'>Site Comparisons </span><div id="comparison" data-title='Upgrade to View' class='hide-elem'><p class="mg-btm">The Site Comparisons is available in the Alexa Pro Advanced Plans.</p>
+<a href="/plans?ax_atid=" class="btn btn-p2 ppover-close">Upgrade</a>
+</div></li>
+<li class=""><span class='ppoverdl img-lock img-lock-fa onclick liPopover '  data-ppoverdl='linksin'>Sites Linking In </span><span class='ppover img-lock img-lock-fa onclick liPopover ' data-placement='right' data-ppover='linksin'>Sites Linking In </span><div id="linksin" data-title='Upgrade to View' class='hide-elem'><p class="mg-btm">Sites Linking In is available in the Alexa Pro Advanced Plans.</p>
+<a href="/plans?ax_atid=" class="btn btn-p2 ppover-close">Upgrade</a>
+</div></li>
+<li class=""><span class='ppoverdl img-lock img-lock-fa onclick liPopover '  data-ppoverdl='keywords'>Site Keywords </span><span class='ppover img-lock img-lock-fa onclick liPopover ' data-placement='right' data-ppover='keywords'>Site Keywords </span><div id="keywords" data-title='Upgrade to View' class='hide-elem'><p class="mg-btm">Site Keywords are available in the Alexa Pro Advanced Plans.</p>
+<a href="/plans?ax_atid=" class="btn btn-p2 ppover-close">Upgrade</a>
+</div></li>
+<li class=""><span class='ppoverdl img-lock img-lock-fa onclick liPopover '  data-ppoverdl='FindSites'>Site Screener </span><span class='ppover img-lock img-lock-fa onclick liPopover ' data-placement='right' data-ppover='FindSites'>Site Screener </span><div id="FindSites" data-title='Upgrade to View' class='hide-elem'><p class="mg-btm">Site Screener is available in the Alexa Pro Advanced Plans.</p>
+<a href="/plans?ax_atid=" class="btn btn-p2 ppover-close">Upgrade</a>
+</div></li>
+<li class="current"><a href='/topsites' data-name='Top Sites'>Top Sites</a></li>
+<li class=""><a href='/toolbar' data-name='Alexa Browser Extension'>Alexa Browser Extension</a></li>
+</ul>
+</div>
+<li><a href='/siteinfo' data-name='Site Metrics'>Site Metrics</a></li>
+</div>
+</div>
+</div>
+<div id="ProfileMenu" class="modal hide fade navmodals" tabindex="-1" data-keyboard="false" data-backdrop="static" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="display:none;">
+<h3 class="popmenu">Account</h3>
+<a href='#' class='ModalNavxout hidden-phone' data-dismiss='modal'><i class='fa fa-times' aria-hidden='true'></i></a>
+<div class='paddingAll mybuttons' style='text-align: right;'>
+<a href='#' class='SideNavToggle hidden-phone'><i class='fa fa-bars SideNavClose' aria-hidden='true'></i></a>
+<a href='#' class='SideNavToggle hidden-desktop hidden-tablet'><i class='fa fa-times MobileSideNavClose' aria-hidden='true'></i></a>
+</div>
+<hr/>
+<div class='MenuBlock'>
+<h4><a href='/account'>Account Management</a></h4>
+<h4><a href='/account/paymenthistory'>Payment History</a></h4>
+<h4><a href='/logout?mode=logout'>Log Out</a></h4>
+</div>
+</div>				<script type="text/javascript" src="/js/ext/URI.js?1540844734"></script>
+<script type="text/javascript" src="/js/ext/jquery-ui.js?1540844734"></script>
+<script type="text/javascript" src="/js/ext/jquery-ui-touch-punch-023.js?1540844734"></script>
+<script type="text/javascript" src="/pro/js/ext/jquery-validate-min.js?1540844734"></script>
+<script type="text/javascript" src="/js/ext/jquery-cookie-13.js?1540844734"></script>
+<script type="text/javascript" src="/js/ext/jquery-autocomplete.js?1549500016"></script>
+<script type="text/javascript" src="/js/ext/bootstrap.js?1540844734"></script>
+<script type="text/javascript" src="/js/ext/mobile-util-min.js?1540844734"></script>
+<script type="text/javascript" src="/js/common.js?1555022599"></script>
+<script type="text/javascript" src="/js/Alexa.js?1555022599"></script>
+<script type="text/javascript" src="/js/alexa-ui.js?1555022599"></script>
+<script type="application/json" id="widgetAccess">
+[]
+</script><script type="text/javascript">
+if('1') {
+A$.isProd = true;
+} else {
+A$.isProd = false;
+}
+if('') {
+A$.useCF = true;
+} else {
+A$.useCF = false;
+}
+</script>	</body>
+</html>
