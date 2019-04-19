@@ -12,7 +12,7 @@ You want to study? Challenge accepted! If you have this extension enabled, you'l
 
 Let's see how you study now.
 
-### Project Execution
+## Project Execution
 
 The .crx file is the packed extension and the folder “FocusNot” is the unpacked version that can be run when developer mode is enabled on Chrome.
 
